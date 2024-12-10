@@ -1,0 +1,1 @@
+cout << "Enter elements for row " << i + 1 << ": ";
